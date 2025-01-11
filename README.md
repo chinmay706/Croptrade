@@ -4,7 +4,7 @@ CropConnect is a web platform designed for wholesale crop trading, connecting se
 
 ## Deployed Link
 
-https://crop-connect-lime.vercel.app/
+https://cropconect.netlify.app/
 
 ## Architecture
 
